@@ -1,0 +1,15 @@
+# YOLO model weights (large binary, auto-downloaded on first run)
+*.pt
+
+# Daily detection CSV output
+detections_*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
